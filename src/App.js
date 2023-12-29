@@ -1,4 +1,4 @@
-import EmployeeManagement from "./components/EmployeeManagement/EmployeeManagement";
+import EmployeeManagement from "./components/QuanLySinhVien/QuanLySinhVien";
 function App() {
   return (
     <div className="App">

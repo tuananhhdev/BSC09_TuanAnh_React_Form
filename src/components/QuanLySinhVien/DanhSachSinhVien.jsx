@@ -1,9 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import {
-  deleteUser,
-  editUser,
-} from "../../Store/action/EmployeeManagementAction";
+import { deleteUser, editUser } from "../../Store/action/QuanLySinhVienAction";
 
 class DanhSachSinhVien extends Component {
   state = {

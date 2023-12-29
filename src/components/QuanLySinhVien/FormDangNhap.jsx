@@ -4,7 +4,7 @@ import {
   addUser,
   updateUser,
   searchUser,
-} from "../../Store/action/EmployeeManagementAction";
+} from "../../Store/action/QuanLySinhVienAction";
 
 class FormDangKy extends Component {
   stateDefault = {

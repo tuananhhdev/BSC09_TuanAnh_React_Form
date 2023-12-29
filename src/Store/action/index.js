@@ -1,1 +1,1 @@
-export * from "./EmployeeManagementAction";
+export * from "./QuanLySinhVienAction";

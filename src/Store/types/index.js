@@ -1,1 +1,1 @@
-export * from "./EmployeeManagementType";
+export * from "./QuanLySinhVienType";
