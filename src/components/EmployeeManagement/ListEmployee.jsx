@@ -22,15 +22,14 @@ class DanhSachSinhVien extends Component {
       <div className="mt-10">
         <div>
           <table className="container-fluid mt-5">
-            <thead className="bg-black p-5 text-white text-lg">
+            <thead className="bg-dark p-5 text-white text-lg">
               <tr className="">
                 <th className="p-3"></th>
                 <th className="p-3">Mã SV</th>
                 <th className="p-3">Họ tên</th>
                 <th className="p-3">Số điện thoại</th>
-                <th className="p-3">Email</th>
-                <th className="p-3"></th>
-                <th className="p-3"></th>
+                <th className="p-3">E-mail</th>
+                <th className="p-3">Hành động</th>
               </tr>
             </thead>
             <tbody>
